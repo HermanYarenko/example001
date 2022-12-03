@@ -1,0 +1,15 @@
+/Users/germanyarenko/Desktop/example/example001_helloConsole/bin/Debug/net6.0/example001_helloConsole
+/Users/germanyarenko/Desktop/example/example001_helloConsole/bin/Debug/net6.0/example001_helloConsole.deps.json
+/Users/germanyarenko/Desktop/example/example001_helloConsole/bin/Debug/net6.0/example001_helloConsole.runtimeconfig.json
+/Users/germanyarenko/Desktop/example/example001_helloConsole/bin/Debug/net6.0/example001_helloConsole.dll
+/Users/germanyarenko/Desktop/example/example001_helloConsole/bin/Debug/net6.0/example001_helloConsole.pdb
+/Users/germanyarenko/Desktop/example/example001_helloConsole/obj/Debug/net6.0/example001_helloConsole.csproj.AssemblyReference.cache
+/Users/germanyarenko/Desktop/example/example001_helloConsole/obj/Debug/net6.0/example001_helloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/germanyarenko/Desktop/example/example001_helloConsole/obj/Debug/net6.0/example001_helloConsole.AssemblyInfoInputs.cache
+/Users/germanyarenko/Desktop/example/example001_helloConsole/obj/Debug/net6.0/example001_helloConsole.AssemblyInfo.cs
+/Users/germanyarenko/Desktop/example/example001_helloConsole/obj/Debug/net6.0/example001_helloConsole.csproj.CoreCompileInputs.cache
+/Users/germanyarenko/Desktop/example/example001_helloConsole/obj/Debug/net6.0/example001_helloConsole.dll
+/Users/germanyarenko/Desktop/example/example001_helloConsole/obj/Debug/net6.0/refint/example001_helloConsole.dll
+/Users/germanyarenko/Desktop/example/example001_helloConsole/obj/Debug/net6.0/example001_helloConsole.pdb
+/Users/germanyarenko/Desktop/example/example001_helloConsole/obj/Debug/net6.0/example001_helloConsole.genruntimeconfig.cache
+/Users/germanyarenko/Desktop/example/example001_helloConsole/obj/Debug/net6.0/ref/example001_helloConsole.dll
